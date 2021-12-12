@@ -1,0 +1,363 @@
+Array
+(
+    [0] => Array
+        (
+            [username] => elias
+            [firstname] => Elias
+            [lastname] => Müller
+            [email] => elias.mueller@example.com
+            [password] => Eiwoa0Ou!
+        )
+
+    [1] => Array
+        (
+            [username] => emil
+            [firstname] => Emil
+            [lastname] => Schmidt
+            [email] => emil.schmidt@example.com
+            [password] => aiquah4V!
+        )
+
+    [2] => Array
+        (
+            [username] => liam
+            [firstname] => Liam
+            [lastname] => Fischer
+            [email] => liam.fischer@example.com
+            [password] => oGh5ooph!
+        )
+
+    [3] => Array
+        (
+            [username] => theo
+            [firstname] => Theo
+            [lastname] => Weber
+            [email] => theo.weber@example.com
+            [password] => ahy9Eeh4!
+        )
+
+    [4] => Array
+        (
+            [username] => felix
+            [firstname] => Felix
+            [lastname] => Meyer
+            [email] => felix.meyer@example.com
+            [password] => Quie5ahm!
+        )
+
+    [5] => Array
+        (
+            [username] => paul
+            [firstname] => Paul
+            [lastname] => Wagner
+            [email] => paul.wagner@example.com
+            [password] => oP3AiRu4!
+        )
+
+    [6] => Array
+        (
+            [username] => anton
+            [firstname] => Anton
+            [lastname] => Becker
+            [email] => anton.becker@example.com
+            [password] => Hexio7cu!
+        )
+
+    [7] => Array
+        (
+            [username] => jonas
+            [firstname] => Jonas
+            [lastname] => Schulz
+            [email] => jonas.schulz@example.com
+            [password] => queib4Oy!
+        )
+
+    [8] => Array
+        (
+            [username] => markus
+            [firstname] => Markus
+            [lastname] => Hoffmann
+            [email] => markus.hoffmann@example.com
+            [password] => Koh6ef4o!
+        )
+
+    [9] => Array
+        (
+            [username] => linus
+            [firstname] => Linus
+            [lastname] => Schäfer
+            [email] => linus.schaefer@example.com
+            [password] => Aachu2ai!
+        )
+
+    [10] => Array
+        (
+            [username] => levi
+            [firstname] => Levi
+            [lastname] => Koch
+            [email] => levi.koch@example.com
+            [password] => coh9Koob!
+        )
+
+    [11] => Array
+        (
+            [username] => samuel
+            [firstname] => Samuel
+            [lastname] => Bauer
+            [email] => samuel.bauer@example.com
+            [password] => oof5ooCu!
+        )
+
+    [12] => Array
+        (
+            [username] => lukas
+            [firstname] => Lukas
+            [lastname] => Richter
+            [email] => lukas.richter@example.com
+            [password] => xoh6Gigi!
+        )
+
+    [13] => Array
+        (
+            [username] => julian
+            [firstname] => Julian
+            [lastname] => Klein
+            [email] => julian.klein@example.com
+            [password] => uuCh3Eel!
+        )
+
+    [14] => Array
+        (
+            [username] => leo
+            [firstname] => Leo
+            [lastname] => Wolf
+            [email] => leo.wolf@example.com
+            [password] => Ooghee3L!
+        )
+
+    [15] => Array
+        (
+            [username] => thomas
+            [firstname] => Thomas
+            [lastname] => Schröder
+            [email] => thomas.schroeder@example.com
+            [password] => WohPh6io!
+        )
+
+    [16] => Array
+        (
+            [username] => jan
+            [firstname] => Jan
+            [lastname] => Neumann
+            [email] => jan.neumann@example.com
+            [password] => VaeL6Dah!
+        )
+
+    [17] => Array
+        (
+            [username] => tim
+            [firstname] => Tim
+            [lastname] => Schwarz
+            [email] => tim.schwarz@example.com
+            [password] => phoh5Rai!
+        )
+
+    [18] => Array
+        (
+            [username] => leon
+            [firstname] => Leon
+            [lastname] => Zimmermann
+            [email] => leon.zimmermann@example.com
+            [password] => son6aeTa!
+        )
+
+    [19] => Array
+        (
+            [username] => jakob
+            [firstname] => Jakob
+            [lastname] => Braun
+            [email] => jakob.braun@example.com
+            [password] => uT7aeNi2!
+        )
+
+    [20] => Array
+        (
+            [username] => milo
+            [firstname] => Milo
+            [lastname] => Krüger
+            [email] => milo.krueger@example.com
+            [password] => Taobee9u!
+        )
+
+    [21] => Array
+        (
+            [username] => daniel
+            [firstname] => Daniel
+            [lastname] => Hofmann
+            [email] => daniel.hofmann@example.com
+            [password] => oos6buYa!
+        )
+
+    [22] => Array
+        (
+            [username] => philipp
+            [firstname] => Philipp
+            [lastname] => Hartmann
+            [email] => philipp.hartmann@example.com
+            [password] => et6aeCh6!
+        )
+
+    [23] => Array
+        (
+            [username] => alexander
+            [firstname] => Alexander
+            [lastname] => Lange
+            [email] => alexander.lange@example.com
+            [password] => ohFee9ma!
+        )
+
+    [24] => Array
+        (
+            [username] => matteo
+            [firstname] => Matteo
+            [lastname] => Schmitt
+            [email] => matteo.schmitt@example.com
+            [password] => eeWae3ph!
+        )
+
+    [25] => Array
+        (
+            [username] => emilia
+            [firstname] => Emilia
+            [lastname] => Werner
+            [email] => emilia.werner@example.com
+            [password] => ciep8ieB!
+        )
+
+    [26] => Array
+        (
+            [username] => laura
+            [firstname] => Laura
+            [lastname] => Schmitz
+            [email] => laura.schmitz@example.com
+            [password] => aJePh4ze!
+        )
+
+    [27] => Array
+        (
+            [username] => sarah
+            [firstname] => Sarah
+            [lastname] => Krause
+            [email] => sarah.krause@example.com
+            [password] => shai2Yo9!
+        )
+
+    [28] => Array
+        (
+            [username] => lina
+            [firstname] => Lina
+            [lastname] => Meier
+            [email] => lina.meier@example.com
+            [password] => Mae2ooK5!
+        )
+
+    [29] => Array
+        (
+            [username] => ella
+            [firstname] => Ella
+            [lastname] => Lehmann
+            [email] => ella.lehmann@example.com
+            [password] => Zai0Eehu!
+        )
+
+    [30] => Array
+        (
+            [username] => anna
+            [firstname] => Anna
+            [lastname] => Schmid
+            [email] => anna.schmid@example.com
+            [password] => Aimepo9o!
+        )
+
+    [31] => Array
+        (
+            [username] => ida
+            [firstname] => Ida
+            [lastname] => Schulze
+            [email] => ida.schulze@example.com
+            [password] => RuBoox9e!
+        )
+
+    [32] => Array
+        (
+            [username] => leonie
+            [firstname] => Leonie
+            [lastname] => Maier
+            [email] => leonie.maier@example.com
+            [password] => Ieghie7o!
+        )
+
+    [33] => Array
+        (
+            [username] => lena
+            [firstname] => Lena
+            [lastname] => Köhler
+            [email] => lena.koehler@example.com
+            [password] => Afahth2F!
+        )
+
+    [34] => Array
+        (
+            [username] => julia
+            [firstname] => Julia
+            [lastname] => Hermann
+            [email] => julia.hermann@example.com
+            [password] => AhFan7Ee!
+        )
+
+    [35] => Array
+        (
+            [username] => amelie
+            [firstname] => Amelie
+            [lastname] => König
+            [email] => amelie.koenig@example.com
+            [password] => loj8ooSh!
+        )
+
+    [36] => Array
+        (
+            [username] => lea
+            [firstname] => Lea
+            [lastname] => Walter
+            [email] => lea.walter@example.com
+            [password] => eech0OhH!
+        )
+
+    [37] => Array
+        (
+            [username] => emma
+            [firstname] => Emma
+            [lastname] => Mayer
+            [email] => emma.mayer@example.com
+            [password] => Aich4aep!
+        )
+
+    [38] => Array
+        (
+            [username] => mia
+            [firstname] => Mia
+            [lastname] => Huber
+            [email] => mia.huber@example.com
+            [password] => ua5Faih2!
+        )
+
+    [39] => Array
+        (
+            [username] => marie
+            [firstname] => Marie
+            [lastname] => Kaiser
+            [email] => marie.kaiser@example.com
+            [password] => xaht6Oom!
+        )
+
+)
